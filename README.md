@@ -1,16 +1,16 @@
-# Projetos de Análise de Dados com Python
+# Projetos de Data Science com Python
 
-Projeto feito durante minha "Formação Python para Data Science" na Alura
+Projetos feitos durante minha "Formação Data Science" na Alura
 
 | :placard: Vitrine.Dev | [cursos.alura.com.br/vitrinedev/paulo-emilio](https://cursos.alura.com.br/vitrinedev/paulo-emilio) |
 | -------------  | --- |
-| :sparkles: Nome        | **Análise de Dados com Python**
+| :sparkles: Nome        | **Data Science com Python**
 | :label: Tecnologias | python, anaconda, jupyter
-| :rocket: URL        | https://github.com/paulo-emilio/Projetos/tree/main/Análise%20Descritiva%20-%20Python
+| :rocket: URL        | https://github.com/paulo-emilio/Projetos/tree/main/Data-Science-Python
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-[![](https://github.com/paulo-emilio/Projetos/blob/main/An%C3%A1lise%20Descritiva%20-%20Python/An%C3%A1lise%20Descritiva%20-%20IBGE%202015/print/print_exemplo.png#vitrinedev)](https://github.com/paulo-emilio/Projetos/tree/main/Análise%20Descritiva%20-%20Python)
+[![](https://github.com/paulo-emilio/Projetos/blob/main/Data-Science-Python/Regressao-Linear/prints/print3.png#vitrinedev)](https://github.com/paulo-emilio/Projetos/tree/main/Data-Science-Python)
 
 ## Detalhes do projeto
 
-Projeto desenvolvido durante o curso "Formação Python para Data Science" da Alura. Durante o curso, utilizamos o jupyter para criação de análises descritivas com python, utilizando Numpy, Pandas, Seaborn, e mais.
+Projetos desenvolvidos durante o curso "Formação Data Science" da Alura. Durante o curso, utilizamos o Anaconda e Jupyter Notebook para: análise de dados, estatística, modelagem, visualização e machine learnig com python, utilizando bibliotecas como: Seaborn, Matplotlib, SciPy, Pandas, scikit-learn, entre outros. 
