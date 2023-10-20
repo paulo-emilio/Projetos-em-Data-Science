@@ -4,7 +4,7 @@ Projetos de análise de dados, estatística, modelagem, visualização e machine
 
 | :placard: Vitrine.Dev | [cursos.alura.com.br/vitrinedev/paulo-emilio](https://cursos.alura.com.br/vitrinedev/paulo-emilio) |
 | -------------  | --- |
-| :sparkles: Nome        | **Data Science**
+| :sparkles: Nome        | **Projetos em Data Science**
 | :label: Tecnologias | python, anaconda, jupyter
 | :rocket: URL        | [Análise Descritiva IBGE](Analise-Descritiva-IBGE/Projeto/Análise-Descritiva-IBGE.ipynb)<br>[Pesquisa Nacional por Amostra de Domicílios](Probabilidades-e-Estimacoes/Projeto/Pesquisa-Nacional-por-Amostra-de-Domicilios.ipynb)<br>[Regressão Linear - HousePricing](Regressao-Linear/Projeto)
 
